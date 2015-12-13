@@ -1,3 +1,13 @@
+/*
+Authors: 
+Tanvi Jadhav - tanvi.jadhav7769@gmail.com
+Vedangi Pathak - vedangi.pathak@gmail.com
+
+This code is a part of mobile object tracking project with wireless sensor networks done with 4 TelosB motes. This project 
+was completed under the guidance of Dr. K.R Anupama, BITS Pilani, K K Birla Goa Campus.
+*/
+
+
 #include <UserButton.h>
 #include "Localization.h"
 #include "printf.h"
